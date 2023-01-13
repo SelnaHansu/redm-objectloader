@@ -4,9 +4,16 @@ Loads map XML files exported from the RDR2 Map Editor by Lambdarevolution: https
 
 [![Butter Bridge](https://i.imgur.com/qlmvzwdm.jpg)](https://imgur.com/qlmvzwd)
 
+Reqiered:
+
+uipromt:
+https://github.com/kibook/redm-uiprompt
+
+
 ## Installing
 
 Place the files inside a subfolder in the resources directory, for example:
+
 
 ```
 resources/[local]/[objectloader]
